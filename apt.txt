@@ -1,2 +1,1 @@
-default-jre
-
+oracle-java8-set-default

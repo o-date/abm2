@@ -12,4 +12,4 @@ or use RNetlogo a la Ben https://benmarwick.github.io/How-To-Do-Archaeological-S
 wget http://ccl.northwestern.edu/netlogo/6.0.4/NetLogo-6.0.4-64.tgz
 tar -xzf NetLogo.tgz
 
-sg note: the scraping repo has all the necessary back end; start with that if this continues to not work?
+Current error - it wants X11, even with gui set to false...

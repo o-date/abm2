@@ -1,1 +1,3 @@
-jre-default
+default-jre
+default-jdk
+xorg openbox

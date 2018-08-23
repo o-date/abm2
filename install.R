@@ -1,2 +1,6 @@
 install.packages("rJava", repos='http://cran.us.r-project.org')
 install.packages("RNetLogo", repos='http://cran.us.r-project.org')
+install.packages("sp", repos='http://cran.us.r-project.org')
+install.packages("gstat", repos='http://cran.us.r-project.org')
+install.packages("RSQLite", repos='http://cran.us.r-project.org')
+install.packages("Ryacas", repos='http://cran.us.r-project.org')

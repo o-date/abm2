@@ -1,1 +1,3 @@
 R CMD javareconf -e
+curl http://ccl.northwestern.edu/netlogo/6.0.4/NetLogo-6.0.4-64.tgz > NetLogo.tgz
+tar -xzf NetLogo.tgz

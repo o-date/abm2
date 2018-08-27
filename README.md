@@ -1,5 +1,7 @@
 # abm2
 
+**Currently not working. Do not use**
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/o-date/abm2/master)
 
 figuring out how to run netlogo headless in binder, see https://twitter.com/CDWren/status/1032283835772297216
